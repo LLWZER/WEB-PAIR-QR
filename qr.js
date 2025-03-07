@@ -149,7 +149,7 @@ if (fs.existsSync('./auth_info_baileys')) {
 
                       const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
 
-                      let result = '';
+                      let result = 'Gifted~'';
 
                       for (let i = 0; i < length; i++) {
 
